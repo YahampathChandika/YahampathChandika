@@ -6,26 +6,10 @@ I build web systems end to end: the interface, the services behind it, and the d
 
 Building software since 2022, across healthcare, education, retail, transport and finance. Most of what I have shipped is still in daily use.
 
-**A — uniform slate**
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-334155?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.yhmpth.com)
 [![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-334155?style=for-the-badge&logo=readdotcv&logoColor=white)](https://www.yhmpth.com/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yahampath-chandika/)
 [![Email](https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yhmpth@gmail.com)
-
-**B — brand colours**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B0B0B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.yhmpth.com)
-[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-B91C1C?style=for-the-badge&logo=readdotcv&logoColor=white)](https://www.yhmpth.com/resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yahampath-chandika/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yhmpth@gmail.com)
-
-**C — flat, understated**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-1f2937?style=flat-square&logo=googlechrome&logoColor=white)](https://www.yhmpth.com)
-[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-1f2937?style=flat-square&logo=readdotcv&logoColor=white)](https://www.yhmpth.com/resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f2937?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yahampath-chandika/)
-[![Email](https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=gmail&logoColor=white)](mailto:yhmpth@gmail.com)
 
 ---
 
