@@ -1,6 +1,6 @@
 # Yahampath Chandika
 
-**Software engineer, Colombo — AI in the loop.**
+**Software engineer, Colombo - AI in the loop.**
 
 I build web systems end to end: the interface, the services behind it, and the deployment around both. Lately that means putting language models into production and automating the manual work around them.
 
