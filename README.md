@@ -10,25 +10,6 @@ Sixteen systems across five roles since 2022, in healthcare, education, retail, 
 
 ---
 
-## What I'm building now
-
-**Software Engineer at [LAB360](https://www.yhmpth.com/experience)** — language models where the firm's real work already happens, with the safety rails that requires.
-
-- **MCP servers** exposing Lawmatics, Drupal, Google Analytics and respond.io to Claude and GPT, with typed tool schemas and confirm-before-write safety
-- **An internal Claude Code plugin** packaging 25+ operating skills, so non-technical staff can reach firm systems without breaking them
-- **CaseFlow Neo** — an AI case-management and client-intake platform on Cloudflare Workers, where an agent drives a headless browser to sort and file documents
-- A headless **Drupal 11 + Next.js 15** site, and a two-way **Jira ↔ Lawmatics** sync service
-
-## Products of my own
-
-| | | |
-|---|---|---|
-| **[MediLab](https://www.yhmpth.com/work/medilab)** | Laboratory management SaaS | Live, with paying labs |
-| **[E-Commerce Platform](https://www.yhmpth.com/work/e-commerce-platform)** | Multi-store SaaS | Every shop independent, one super-admin panel |
-| **[TuitionHub](https://www.yhmpth.com/work/tuition-hub)** | Multi-tenant SaaS | A subdomain and isolated data per centre |
-
-Also **[Vital Care](https://www.yhmpth.com/work/vital-care)** — remote ICU monitoring with continuous NEWS2 scoring and automatic escalation. Built solo, selected for the TIDAC 2024 research symposium.
-
 ## Tech
 
 **Languages**
@@ -82,9 +63,3 @@ Also **[Vital Care](https://www.yhmpth.com/work/vital-care)** — remote ICU mon
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yhmpth@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/de_shuffler)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/yahampath.2k)
-
-## Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YahampathChandika&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YahampathChandika&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YahampathChandika&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
