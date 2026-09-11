@@ -4,7 +4,7 @@
 
 I build web systems end to end: the interface, the services behind it, and the deployment around both. Lately that means putting language models into production and automating the manual work around them.
 
-Sixteen systems across five roles since 2022, in healthcare, education, retail, transport and finance. Most of them are still in daily use.
+Building software since 2022, across healthcare, education, retail, transport and finance. Most of what I have shipped is still in daily use.
 
 **[Portfolio →](https://www.yhmpth.com)** · [Resume](https://www.yhmpth.com/resume.pdf) · yhmpth@gmail.com
 
