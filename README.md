@@ -6,7 +6,10 @@ I build web systems end to end: the interface, the services behind it, and the d
 
 Building software since 2022, across healthcare, education, retail, transport and finance. Most of what I have shipped is still in daily use.
 
-**[Portfolio →](https://www.yhmpth.com)** · [Resume](https://www.yhmpth.com/resume.pdf) · yhmpth@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-yhmpth.com-0B0B0B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.yhmpth.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-4B5563?style=for-the-badge&logo=readdotcv&logoColor=white)](https://www.yhmpth.com/resume.pdf)
+[![Email](https://img.shields.io/badge/Email-yhmpth%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yhmpth@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yahampath-chandika/)
 
 ---
 
@@ -58,8 +61,5 @@ Building software since 2022, across healthcare, education, retail, transport an
 
 ## Elsewhere
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yahampath-chandika/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=flat-square&logo=googlechrome&logoColor=white)](https://www.yhmpth.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yhmpth@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/de_shuffler)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/yahampath.2k)
